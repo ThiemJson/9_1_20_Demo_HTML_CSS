@@ -2,14 +2,19 @@
 
 .list-item {
     font-family: Dancing Script,sans-serif;
-    color: rgb(100,88,88);
+    color: rgb(253, 253, 253);
     font-size: 30px;
     padding-left: 18px;
     padding-top: 20px;
     padding-bottom: 21px;
-    background-color: antiquewhite;
+    background-color: red;
     padding-right: 60px;
     margin-top: 10px;
-    border-right: 4px solid red;
-    border-radius: 30px;
+    border-right: 4px solid rgb(19, 15, 15);
+    border-radius: 12px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%, rgba(0,212,255,1) 100%);
+}
+body{
+    background-color: #f5f5f5;
 }
