@@ -2,10 +2,11 @@
 
 #list-item {
     font-family: Dancing Script,sans-serif;
-    color: rgb(88,88,88);
+    color: rgb(100,88,88);
     font-size: 30px;
-    padding-left: 20px;
+    padding-left: 18px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 21px;
     background-color: antiquewhite;
+    padding-right: 282px;
 }
